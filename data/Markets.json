@@ -1,0 +1,20 @@
+{
+    "Markets": [
+        {
+            "Location": "Breakfast",
+            "address": "test address"
+        },
+        {
+            "Location": "Lunch",
+            "address": "test address"
+        },
+        {
+            "Location": "Super",
+            "address": "test address"
+        },
+        {
+            "Location": "Order now",
+            "address": "test address"
+        }
+    ]
+}
